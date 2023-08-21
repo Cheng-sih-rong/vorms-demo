@@ -61,6 +61,8 @@ button {
   background-color: #646cff !important;
   cursor: pointer;
   transition: background-color 0.25s;
+  max-height: 45px;
+  margin-top: 50px;
   
 }
 button:not(:last-child){
@@ -88,6 +90,8 @@ button:focus-visible {
 
 label{
   margin-right: 5px;
+  margin-top: 30px;
+  display: block;
 }
 
 input,select{
