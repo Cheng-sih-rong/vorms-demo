@@ -28,9 +28,10 @@ const { value: sugar, attrs: sugarFieldAttrs } = register('sugar')
         {{ item }}
       </option>
     </select>
-
-    <button type="reset">Reset</button>
-    <button type="submit">Submit</button>
+    <div class="button-wrapper">
+      <button type="reset">Reset</button>
+      <button type="submit">Submit</button>
+    </div>
   </form>
 </template> 
 <style scoped>
