@@ -1,6 +1,6 @@
 <script setup>
-import BasicSample from './components/BasicSample.vue'
-import UseFormSample from './components/UseFormSample.vue'
+import BasicSample from "./components/BasicSample.vue"
+import UseFormSample from "./components/UseFormSample.vue"
 </script>
 
 <template>
